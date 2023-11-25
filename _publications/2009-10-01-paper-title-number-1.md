@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Fuzzy-VGG: A Fast Deep Learning Method for Predicting the Staging of Alzheimer's Disease Based on Brain MRI"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Yizhe Yuan, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-5-30
+venue: 'Information Sciences'
+paperurl: 'https:/yuan1z0825.github.io/yuanyz.github.io/files/paper1.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper11.pdf)
 
-Recommended citation: Yizhe Yuan, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yizhe Yuan
